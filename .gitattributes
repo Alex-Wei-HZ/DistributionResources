@@ -1,0 +1,5 @@
+# Preserve release archives and pinned resource checksums byte-for-byte.
+*.zip -text -diff -merge
+TypingFighter/** -text
+# Keep upstream license snapshots verbatim, including original whitespace.
+TypingFighter/**/LICENSES/** -whitespace

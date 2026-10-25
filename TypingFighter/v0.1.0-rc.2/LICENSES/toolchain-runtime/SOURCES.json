@@ -1,0 +1,30 @@
+[
+  {
+    "file": "GPL-2.0.txt",
+    "source_package": "toolchain-xtensa-esp32s3",
+    "version": "8.4.0+2021r2-patch5",
+    "package_relative_path": "share/licenses/gmp/COPYINGv2",
+    "sha256": "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643"
+  },
+  {
+    "file": "GCC-GPL-3.0.txt",
+    "source_package": "toolchain-xtensa-esp32s3",
+    "version": "8.4.0+2021r2-patch5",
+    "package_relative_path": "share/licenses/gcc/COPYING3",
+    "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903"
+  },
+  {
+    "file": "GCC-RUNTIME-EXCEPTION.txt",
+    "source_package": "toolchain-xtensa-esp32s3",
+    "version": "8.4.0+2021r2-patch5",
+    "package_relative_path": "share/licenses/gcc/COPYING.RUNTIME",
+    "sha256": "9d6b43ce4d8de0c878bf16b54d8e7a10d9bd42b75178153e3af6a815bdc90f74"
+  },
+  {
+    "file": "COPYING.NEWLIB",
+    "source_package": "toolchain-xtensa-esp32s3",
+    "version": "8.4.0+2021r2-patch5",
+    "package_relative_path": "share/licenses/newlib/COPYING.NEWLIB",
+    "sha256": "dec5d419a7a4b27c064c8367a21e5d7b58aefc162719dc169bc4f82a88994859"
+  }
+]

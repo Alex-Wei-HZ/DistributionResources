@@ -1,0 +1,26 @@
+{
+  "family": "Noto Sans SC",
+  "googleFontsApiVersion": "v40",
+  "officialCssUrl": "https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;700",
+  "regularUrl": "https://fonts.gstatic.com/s/notosanssc/v40/k3kCo84MPvpLmixcA63oeAL7Iqp5IZJF9bmaG9_FnYw.ttf",
+  "regularSha256": "450625c8d46ab3df97b7904ded955ec2746d17ec76740cb1e91d1ba63a0f89af",
+  "boldUrl": "https://fonts.gstatic.com/s/notosanssc/v40/k3kCo84MPvpLmixcA63oeAL7Iqp5IZJF9bmaGzjCnYw.ttf",
+  "boldSha256": "0066a522a1ac007c1d72bc4fccb114f80ff7294641c78cead9715bd14d43b9ea",
+  "metadataUrl": "https://github.com/google/fonts/blob/main/ofl/notosanssc/METADATA.pb",
+  "upstreamRepository": "https://github.com/notofonts/noto-cjk",
+  "upstreamCommit": "523d033d6cb47f4a80c58a35753646f5c3608a78",
+  "license": "SIL Open Font License 1.1",
+  "licenseFile": "OFL-NotoSansSC.txt",
+  "licenseOfficialSha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9",
+  "rasterizer": {"pillow": "12.2.0", "freetype": "2.14.3"},
+  "subset": {
+    "regularPixelSize": 13,
+    "boldPixelSize": 16,
+    "coverage": "2-bit alpha, levels 0/85/170/255",
+    "characterCount": 59,
+    "runtimeAsset": "noto-sans-sc-v40-learning-glyphs.tfng",
+    "runtimeAssetSha256": "d4323d2f2fd07566a9ec90fe7151389668e8ceb5734f4ca45fe32ef95b579142",
+    "runtimeFormat": "TFNG v1: LE header, ASCII inventory, font metrics, per-glyph 2-bit coverage; no TTF, FreeType, JSON, or zlib required on device",
+    "purpose": "Exact canonical Learning V3 strings; shared by candidate renderer and future Cardputer implementation"
+  }
+}

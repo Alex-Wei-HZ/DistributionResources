@@ -1,0 +1,12 @@
+[
+  {
+    "file": "ARDUINO-ESP32-LGPL-2.1.md",
+    "url": "https://raw.githubusercontent.com/espressif/arduino-esp32/2.0.17/LICENSE.md",
+    "sha256": "994ce1902a23c74519b5d118c6bbb657edabce91dd6b7cc825d86bb8f5c9780f"
+  },
+  {
+    "file": "ESP-IDF-APACHE-2.0.txt",
+    "url": "https://raw.githubusercontent.com/espressif/esp-idf/v4.4.7/LICENSE",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+  }
+]

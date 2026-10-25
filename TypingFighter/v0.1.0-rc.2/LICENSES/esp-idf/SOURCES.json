@@ -1,0 +1,200 @@
+{
+  "esp_idf_commit": "38eeba213aa695aabfd6d89aa9f5078dbe5a94c3",
+  "files": [
+    {
+      "file": "COPYRIGHT.rst",
+      "url": "https://raw.githubusercontent.com/espressif/esp-idf/38eeba213aa695aabfd6d89aa9f5078dbe5a94c3/docs/en/COPYRIGHT.rst",
+      "sha256": "a1db55f6af33968650e8c53553fc58386bf3d871d740ccfe464c73c60779acc7"
+    },
+    {
+      "file": "LICENSE",
+      "url": "https://raw.githubusercontent.com/espressif/esp-idf/38eeba213aa695aabfd6d89aa9f5078dbe5a94c3/LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "file": "components/asio/asio/asio/COPYING",
+      "url": "https://raw.githubusercontent.com/espressif/asio/f31694c9f1746ba189a4bcae2e34db15135ddb22/asio/COPYING",
+      "sha256": "3b50d6b2605a7b83c76223c483502ae4b46b1b432f13be6b00f8a91de061f188"
+    },
+    {
+      "file": "components/asio/asio/asio/LICENSE_1_0.txt",
+      "url": "https://raw.githubusercontent.com/espressif/asio/f31694c9f1746ba189a4bcae2e34db15135ddb22/asio/LICENSE_1_0.txt",
+      "sha256": "c9bff75738922193e67fa726fa225535870d2aa1059f91452c411736284ad566"
+    },
+    {
+      "file": "components/bootloader/subproject/components/micro-ecc/micro-ecc/LICENSE.txt",
+      "url": "https://raw.githubusercontent.com/kmackay/micro-ecc/24c60e243580c7868f4334a1ba3123481fe1aa48/LICENSE.txt",
+      "sha256": "ffd8b033d2df7568c25a98866bd92b1656f7da82d7f813c0b2eb85ec36611193"
+    },
+    {
+      "file": "components/bt/controller/lib_esp32/LICENSE",
+      "url": "https://raw.githubusercontent.com/espressif/esp32-bt-lib/e43c9b121f7fac89b73c56077ede5901f64643cd/LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "file": "components/bt/controller/lib_esp32c3_family/LICENSE",
+      "url": "https://raw.githubusercontent.com/espressif/esp32c3-bt-lib/e5c0f7256ecf5b5f8eb28c1793051a6b88f95124/LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "file": "components/bt/host/nimble/nimble/LICENSE",
+      "url": "https://raw.githubusercontent.com/espressif/esp-nimble/49d60705f6e085e670b6d425387e75054bf5dffe/LICENSE",
+      "sha256": "1c5a59ff4e7eb0cb000f43ca173c36b2cd2643bed66b3e2ebdee0c7dbe87a6fa"
+    },
+    {
+      "file": "components/bt/host/nimble/nimble/NOTICE",
+      "url": "https://raw.githubusercontent.com/espressif/esp-nimble/49d60705f6e085e670b6d425387e75054bf5dffe/NOTICE",
+      "sha256": "99f8311c2ed9af65a5939eea186e7a270ba99aa821f777b00bd6354ac46bf462"
+    },
+    {
+      "file": "components/cbor/tinycbor/LICENSE",
+      "url": "https://raw.githubusercontent.com/intel/tinycbor/7c349dbb6b8d76db39383b226d3ebdf59b8ab37d/LICENSE",
+      "sha256": "3c6ba0b5bfa7830505301ffb336a17b0748e0d61c4d34216e9dc98f10e40395e"
+    },
+    {
+      "file": "components/coap/libcoap/COPYING",
+      "url": "https://raw.githubusercontent.com/obgm/libcoap/3aa11612c143c9734d72022720f33e12506f7a2c/COPYING",
+      "sha256": "09dd86a017bad210527085008cbf706609c58210897b69845af14099577e7eb7"
+    },
+    {
+      "file": "components/coap/libcoap/LICENSE",
+      "url": "https://raw.githubusercontent.com/obgm/libcoap/3aa11612c143c9734d72022720f33e12506f7a2c/LICENSE",
+      "sha256": "c5625e704d52deade1c9b2d7931ac8593be147ba63af62b53b8c7e309b7eaeb9"
+    },
+    {
+      "file": "components/console/argtable3/LICENSE",
+      "url": "https://raw.githubusercontent.com/espressif/esp-idf/38eeba213aa695aabfd6d89aa9f5078dbe5a94c3/components/console/argtable3/LICENSE",
+      "sha256": "a97df648b7db77f9f6f5e1ef5fe44eb6b154ecb8ae26ad39c92ea44201cce45c"
+    },
+    {
+      "file": "components/console/linenoise/LICENSE",
+      "url": "https://raw.githubusercontent.com/espressif/esp-idf/38eeba213aa695aabfd6d89aa9f5078dbe5a94c3/components/console/linenoise/LICENSE",
+      "sha256": "efe1692aa5b869edaa0ac88f95eb0276c1125304ffc636a299db3ebbab47f62b"
+    },
+    {
+      "file": "components/esp_phy/lib/LICENSE",
+      "url": "https://raw.githubusercontent.com/espressif/esp-phy-lib/dcfdccf6cc2fc02d0886624b7998c890d1a19b28/LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "file": "components/esp_wifi/lib/LICENSE",
+      "url": "https://raw.githubusercontent.com/espressif/esp32-wifi-lib/f2aae4d44ec7908013066e69d29b9948846c335c/LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "file": "components/esptool_py/LICENSE",
+      "url": "https://raw.githubusercontent.com/espressif/esp-idf/38eeba213aa695aabfd6d89aa9f5078dbe5a94c3/components/esptool_py/LICENSE",
+      "sha256": "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643"
+    },
+    {
+      "file": "components/expat/expat/COPYING",
+      "url": "https://raw.githubusercontent.com/libexpat/libexpat/454c6105bc2d0ea2521b8f8f7a5161c2abd8c386/COPYING",
+      "sha256": "122f2c27000472a201d337b9b31f7eb2b52d091b02857061a8880371612d9534"
+    },
+    {
+      "file": "components/expat/expat/expat/COPYING",
+      "url": "https://raw.githubusercontent.com/libexpat/libexpat/454c6105bc2d0ea2521b8f8f7a5161c2abd8c386/expat/COPYING",
+      "sha256": "122f2c27000472a201d337b9b31f7eb2b52d091b02857061a8880371612d9534"
+    },
+    {
+      "file": "components/freemodbus/LICENSE",
+      "url": "https://raw.githubusercontent.com/espressif/esp-idf/38eeba213aa695aabfd6d89aa9f5078dbe5a94c3/components/freemodbus/LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "file": "components/freertos/LICENSE.md",
+      "url": "https://raw.githubusercontent.com/espressif/esp-idf/38eeba213aa695aabfd6d89aa9f5078dbe5a94c3/components/freertos/LICENSE.md",
+      "sha256": "508a77d2e7b51d98adeed32648ad124b7b30241a8e70b2e72c99f92d8e5874d1"
+    },
+    {
+      "file": "components/ieee802154/lib/LICENSE",
+      "url": "https://raw.githubusercontent.com/espressif/esp-ieee802154-lib/f7b5e8059a3bb6f321e79ac3bf2aa4d2a9b93326/LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "file": "components/json/cJSON/LICENSE",
+      "url": "https://raw.githubusercontent.com/DaveGamble/cJSON/87d8f0961a01bf09bef98ff89bae9fdec42181ee/LICENSE",
+      "sha256": "a36dda207c36db5818729c54e7ad4e8b0c6fba847491ba64f372c1a2037b6d5c"
+    },
+    {
+      "file": "components/libsodium/libsodium/LICENSE",
+      "url": "https://raw.githubusercontent.com/jedisct1/libsodium/4f5e89fa84ce1d178a6765b8b46f2b6f91216677/LICENSE",
+      "sha256": "dea1855c9809f3faf22aa4a1fba20ec8af5a5587f23115012e5b98279cedc4af"
+    },
+    {
+      "file": "components/lwip/lwip/COPYING",
+      "url": "https://raw.githubusercontent.com/espressif/esp-lwip/a45be9e438f6cf9c54ec150581819c3b95d5af6b/COPYING",
+      "sha256": "8fb15ebdb19eb669e1d37fcd8e57a44c477fcc0e93a9ab0d181760965f94d5ed"
+    },
+    {
+      "file": "components/mbedtls/mbedtls/LICENSE",
+      "url": "https://raw.githubusercontent.com/espressif/mbedtls/2b8e772fc1cb0732cda3bae7d1e9d6f4cfaf63d9/LICENSE",
+      "sha256": "9b405ef4c89342f5eae1dd828882f931747f71001cfba7d114801039b52ad09b"
+    },
+    {
+      "file": "components/mqtt/esp-mqtt/LICENSE",
+      "url": "https://raw.githubusercontent.com/espressif/esp-mqtt/bb9c8af9d552b608dd3aabf9617bde757a538ebe/LICENSE",
+      "sha256": "20ed622a5f1a273258b415097609f6a236fb2f23f8c593c63e29e6cc77de0032"
+    },
+    {
+      "file": "components/newlib/COPYING.NEWLIB",
+      "url": "https://raw.githubusercontent.com/espressif/esp-idf/38eeba213aa695aabfd6d89aa9f5078dbe5a94c3/components/newlib/COPYING.NEWLIB",
+      "sha256": "0681089a556e93791da82718d68011ba452de245f7f59c3846936304756ac0c0"
+    },
+    {
+      "file": "components/nghttp/COPYING",
+      "url": "https://raw.githubusercontent.com/espressif/esp-idf/38eeba213aa695aabfd6d89aa9f5078dbe5a94c3/components/nghttp/COPYING",
+      "sha256": "6b94f3abc1aabd0c72a7c7d92a77f79dda7c8a0cb3df839a97890b4116a2de2a"
+    },
+    {
+      "file": "components/nghttp/LICENSE",
+      "url": "https://raw.githubusercontent.com/espressif/esp-idf/38eeba213aa695aabfd6d89aa9f5078dbe5a94c3/components/nghttp/LICENSE",
+      "sha256": "f0518afc0a555337bac2f0fb37d33cdee6111983da69aaa504a1876beeddfde0"
+    },
+    {
+      "file": "components/nghttp/nghttp2/COPYING",
+      "url": "https://raw.githubusercontent.com/nghttp2/nghttp2/e2bc59bec9004bca47df961cbbad20664d7e53b2/COPYING",
+      "sha256": "6b94f3abc1aabd0c72a7c7d92a77f79dda7c8a0cb3df839a97890b4116a2de2a"
+    },
+    {
+      "file": "components/nghttp/nghttp2/LICENSE",
+      "url": "https://raw.githubusercontent.com/nghttp2/nghttp2/e2bc59bec9004bca47df961cbbad20664d7e53b2/LICENSE",
+      "sha256": "f0518afc0a555337bac2f0fb37d33cdee6111983da69aaa504a1876beeddfde0"
+    },
+    {
+      "file": "components/openthread/lib/LICENSE",
+      "url": "https://raw.githubusercontent.com/espressif/esp-thread-lib/9a8d34d8f698cad2c9468468b473e26a3dda51b9/LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "file": "components/openthread/openthread/LICENSE",
+      "url": "https://raw.githubusercontent.com/espressif/openthread/c36c0e77a2465355bcf13bd7dc718d8c9aa6ff64/LICENSE",
+      "sha256": "e164182fc3e6378533ba706800087469a14dcd5913ee55e2e8ae3fb14f3cdbbb"
+    },
+    {
+      "file": "components/openthread/openthread/NOTICE",
+      "url": "https://raw.githubusercontent.com/espressif/openthread/c36c0e77a2465355bcf13bd7dc718d8c9aa6ff64/NOTICE",
+      "sha256": "70144d0c776d0cbd762544c4746136e974616cdc1a369384f81b6b158f957231"
+    },
+    {
+      "file": "components/protobuf-c/protobuf-c/LICENSE",
+      "url": "https://raw.githubusercontent.com/protobuf-c/protobuf-c/abc67a11c6db271bedbb9f58be85d6f4e2ea8389/LICENSE",
+      "sha256": "b8999cb392cc5bbe8cd679de59584ad8d2f26033123e76f1d662fa14b9d4f287"
+    },
+    {
+      "file": "components/spiffs/spiffs/LICENSE",
+      "url": "https://raw.githubusercontent.com/pellepl/spiffs/0dbb3f71c5f6fae3747a9d935372773762baf852/LICENSE",
+      "sha256": "d19257540156a51ed50c2378e7159066415d8bbbe147779f8deb0d3e73f1b0a7"
+    },
+    {
+      "file": "components/tinyusb/tinyusb/LICENSE",
+      "url": "https://raw.githubusercontent.com/espressif/tinyusb/c4badd394eda18199c0196ed0be1e2d635f0a5f6/LICENSE",
+      "sha256": "b171720e8a442e7a3957d83c62cd3299dbb29da3db534cc626f9dded0de2ca44"
+    },
+    {
+      "file": "components/wpa_supplicant/COPYING",
+      "url": "https://raw.githubusercontent.com/espressif/esp-idf/38eeba213aa695aabfd6d89aa9f5078dbe5a94c3/components/wpa_supplicant/COPYING",
+      "sha256": "e9f84e02bb9ba965464e21604014f13d0f3c9299a1b5f7882574a9b4a261abe7"
+    }
+  ]
+}
